@@ -15,6 +15,6 @@ Detail:
   reward_reviewer.txt records the money each reviewer has made during the process.
   
   
-Notice:
+Notice: 
 
   This version is just a rudimentary frame and more details need to be considered to ameliorate this system.
